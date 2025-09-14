@@ -40,7 +40,7 @@
     "lucide-react": "^0.487.0",
     "motion": "*",
     "next-themes": "^0.4.6",
-    "npm:hono": "*",
+    "hono": "^4.6.8",
     "path": "*",
     "react": "^18.3.1",
     "react-day-picker": "^8.10.1",
@@ -63,3 +63,4 @@
     "build": "vite build"
   }
 }
+
